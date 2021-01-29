@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Pesel-validator</string>
+    <string name="dateOfBirth">Data urodzenia: </string>
+    <string name="man">Płeć: mężczyzna</string>
+    <string name="woman">Płeć: kobieta</string>
+    <string name="header">Podaj nr PESEL</string>
+    <string name="validResultInfo">PESEL jest prawidłowy</string>
+    <string name="invalidResultInfo">PESEL nie jest prawidłowy</string>
+</resources>
